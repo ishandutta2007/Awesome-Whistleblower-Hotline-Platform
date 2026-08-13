@@ -1,6 +1,6 @@
 # Awesome-Whistleblower-Hotline-Platform
 
-# Top Whistleblower Hotline Platforms
+## Top Whistleblower Hotline Platforms
 
 A curated list of leading whistleblower hotline, ethics reporting, and anonymous case management platforms used by organizations for secure intake, investigation workflows, compliance (EU Whistleblower Directive, SOX, etc.), and speak-up programs.  
 **Primary focus: open-source software.**
